@@ -40,7 +40,10 @@ Identified key features influencing Airbnb prices.
 # Conclusion
 
 -Airbnb prices vary significantly by neighborhood group and room type.
+
 -Features such as availability, number of reviews, and host activity strongly influence pricing.
+
 -XGBoost outperformed traditional regression models, providing more accurate predictions.
+
 -This analysis can assist both hosts and guests in understanding price dynamics and setting optimal rates.
 
